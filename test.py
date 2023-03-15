@@ -111,7 +111,7 @@ def main_apv():
 
         os.system('am start https://wa.me/+8801858029266?text=' + tks)
 
-    r1=requests.get("https://github.com/R1F4T-2-0/Test/blob/main/Test.txt").text
+    r1=requests.get("https://github.com/Asraf432/test/tree/main").text
 def o():
     os.system('clear')
     print(logo)
